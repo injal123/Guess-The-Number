@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Tiny5&display=swap');
+
+
+
+
+
+
+
+:root{
+       --primary-color: black;
+       --button-color: #EFB9CD;
+       --hover-color: orange;
+       --text-color: white;
+}
+
+body{
+
+    font-family: "Lobster", sans-serif;
+    font-size: 35px;
+    background-color: var(--primary-color);
+    color: var(--text-color);
+
+}
+
+.whole{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#enter
+{
+    height: 60px;
+    width: 70%;
+    border-radius: 10px ;
+    font-size: 30px ;
+    font-family: "Lobster", sans-serif;
+}
+
+
+#button{
+    background-color: black;
+    color: white;
+    border-radius: 80%;
+    border: 2px solid white;
+    height: 50px;
+    width: 120px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: "Lobster", sans-serif ;
+}
+
+#button:hover{
+    
+    background-color: white;
+    color: black;
+    width: 200px ;
+    transition: 0.5s;
+}
+
+
+
+#photo{
+    display: none;
+}
+
+
+.aa{
+    display: flex;
+}
+
+
+
+
+
+
+
+/* Media Queries for small screens */
+@media (max-width: 480px) {
+    body {
+        font-size: 1.5rem;
+    }
+
+    #enter {
+        font-size: 0.7rem;
+        padding: 12px;
+    }
+
+    #button {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
