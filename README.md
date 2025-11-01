@@ -37,8 +37,7 @@ This project helps practice DOM manipulation, event handling, and basic game log
 
 ## Project Structure:
 Guess the number/
-├── index/
-│ └── index.html
+├── index.html
 ├── style/
 │ └── style.css
 ├── script/
