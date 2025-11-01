@@ -36,6 +36,8 @@ This project helps practice DOM manipulation, event handling, and basic game log
 
 
 ## Project Structure:
+## Project Structure:
+<pre>
 Guess the number/
 ├── index.html
 ├── style/
@@ -45,6 +47,7 @@ Guess the number/
 ├── assets/
 │ └── congrats.webp
 ├── README.md
+</pre>
 
 
 ## Live Demo:
