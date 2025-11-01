@@ -35,7 +35,7 @@ This project helps practice DOM manipulation, event handling, and basic game log
 - Visual reward upon successful guess  
 
 
-## Project Structure:
+
 ## Project Structure:
 <pre>
 Guess the number/
