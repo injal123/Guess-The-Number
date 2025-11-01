@@ -49,7 +49,7 @@ Guess the number/
 
 
 ## Live Demo:
-Experience the game online: [Guess The Number](.............)
+Experience the game online: [Guess The Number](https://injal123.github.io/Guess-The-Number/)
 
 
 ## Screenshots:
